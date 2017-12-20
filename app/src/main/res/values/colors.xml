@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="candidate_other">#ff808080</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="skyblue">#45c0bd</color>
+    <color name="yeallow">#f9b041</color>
+    <color name="red">#ff5858</color>
+    <color name="green">#5db87a</color>
+    <color name="light_greeb">#9043BF77</color>
+    <color name="light_blur">#901964a8</color>
+    <color name="light_sky">#903499e1</color>
+    <color name="light_purple">#909048ae</color>
+    <color name="cream_light">#90d6bb86</color>
+    <color name="light_magenta">#90f9644e</color>
+    <color name="grey">#90444d5c</color>
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="ligthGray">#B8BCBF</color>
+</resources>
